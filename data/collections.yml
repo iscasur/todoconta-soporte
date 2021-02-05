@@ -1,0 +1,48 @@
+# Collections and articles are shown in the same order as defined here
+# See this for a full-blown example of a collection
+# - id: "slug-of-the-collection"
+#   title: "The Collection Title"
+#   description: "The collection's description"
+#   # see src/utils/icons.js for a list of all possible icons
+#   icon: "FaBook"
+#   # These are the "pinned" articles at the top of a collection
+#   articles:
+#     # All articles must be in the "../content" folder
+#     - file: ../content/first-article/index.md
+#     - file: ../content/second-article/index.md
+#   sections:
+#     - id: used-as-the-hashtag-of-the-land-animals-section
+#       title: "Land animals"
+#       articles:
+#         - file: ../content/lion/index.md
+#         - file: ../content/cat/index.md
+#     - id: used-as-the-hashtag-of-the-sea-animals-section
+#       title: "Sea animals"
+#       articles:
+#         - file: ../content/dolphins/index.md
+#         - file: ../content/whales/index.md
+
+- id: construsoft
+  title: Construsoft
+  description: 'Soporte para las aplicaciones XMLSAT++ y XMLSAT Premium'
+  icon: "FaRobot"
+  articles:
+    - file: ../content/xmlsat-actualizar/index.md
+    - file: ../content/xmlsat-no-convierte-pdf/index.md
+    - file: ../content/xmlsat-error-captcha/index.md
+
+- id: excel-trabaja-por-ti
+  title: Excel Trabaja por Ti
+  description: 'Soporte a a las aplicaciones Control XML-CFDI, Control XML Nómina, XML a Contpaqi y Concilia REP'
+  icon: "FaFileExcel"
+  articles:
+    - file: ../content/excel-no-responde-solucion/index.md
+    - file: ../content/excel-habilitar-lockxls-runtime-add-in/index.md
+    - file: ../content/excel-activar-licencia/index.md
+    - file: ../content/excel-trasladar-licencia/index.md
+  sections:
+    - id: xml-contpaq
+      title: "XML a Contpaqi"
+      articles:
+        - file: ../content/xmlcontpaq-compatibilidad-32-33/index.md
+        - file: ../content/xmlcontpaq-problema-asociar-xml/index.md
