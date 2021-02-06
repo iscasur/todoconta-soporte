@@ -22,10 +22,17 @@
 #         - file: ../content/dolphins/index.md
 #         - file: ../content/whales/index.md
 
+- id: general
+  title: General
+  description: 'Temas generales sobre asistencia remota, cómo comprar en línea, etc.'
+  icon: "FcAssistant"
+  articles:
+    - file: ../content/asistencia-remota/index.md
+
 - id: construsoft
   title: Construsoft
   description: 'Soporte para las aplicaciones XMLSAT++ y XMLSAT Premium'
-  icon: "FaRobot"
+  icon: "FcServices"
   articles:
     - file: ../content/xmlsat-actualizar/index.md
     - file: ../content/xmlsat-no-convierte-pdf/index.md
@@ -33,8 +40,8 @@
 
 - id: excel-trabaja-por-ti
   title: Excel Trabaja por Ti
-  description: 'Soporte a a las aplicaciones Control XML-CFDI, Control XML Nómina, XML a Contpaqi y Concilia REP'
-  icon: "FaFileExcel"
+  description: 'Soporte a las aplicaciones Control XML-CFDI, Control XML Nómina, XML a Contpaqi y Concilia REP'
+  icon: "FcDataSheet"
   articles:
     - file: ../content/excel-no-responde-solucion/index.md
     - file: ../content/excel-habilitar-lockxls-runtime-add-in/index.md
@@ -47,10 +54,27 @@
         - file: ../content/xmlcontpaq-compatibilidad-32-33/index.md
         - file: ../content/xmlcontpaq-problema-asociar-xml/index.md
 
+- id: facturacion-en-linea
+  title: Facturación en línea
+  description: 'Soporte para la plataforma de facturación en línea'
+  icon: "FcMultipleDevices"
+  articles:
+    - file: ../content/facturacion-cambiar-csd/index.md
+    - file: ../content/facturacion-comprar-timbres/index.md
+    - file: ../content/facturacion-reenviar-comprobante/index.md
+  sections:
+    - id: tutorial
+      title: "Tutorial de uso"
+      articles:
+        - file: ../content/facturacion-registro/index.md
+        - file: ../content/facturacion-registrar-contribuyente-emisor/index.md
+        - file: ../content/facturacion-catalogos/index.md
+        - file: ../content/facturacion-emitir-comprobante-fiscal/index.md
+
 - id: programas-cfdi
   title: Programas CFDI
   description: 'Soporte para las aplicaciones CFDI Facturas, CFDI Recibos, CFDI Nóminas'
-  icon: "FaFileInvoiceDollar"
+  icon: "FcDocument"
   articles:
     - file: ../content/cfdi-error-iniciar-aplicacion/index.md
     - file: ../content/cfdi-activar-programa/index.md

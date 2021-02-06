@@ -120,3 +120,11 @@ export {
   FaRobot,
   FaRegListAlt,
 } from "react-icons/fa"
+
+export {
+  FcAssistant,
+  FcServices,
+  FcDataSheet,
+  FcMultipleDevices,
+  FcDocument,
+} from "react-icons/fc"
