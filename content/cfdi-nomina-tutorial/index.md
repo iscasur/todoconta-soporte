@@ -9,14 +9,14 @@ Timbrado de recibos de nómina y Asimilados a través de la aplicación CFDI Nó
 
 ## Descargar e instalar la aplicación
 
-<iframe src="https://player.vimeo.com/video/225140883" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/225140883?portrait=0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 - [Descargar instalador](https://todoconta.com/cfdinominas-demo)
 - [Comprar timbres](https://todoconta.com/cfdinominas)
 
 ## Ingresar los datos del emisor
 
-<iframe src="https://player.vimeo.com/video/225187913" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/225187913?portrait=0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 La aplicación es multi-RFC por lo que podrás agregar a todos* los patrones que estén a tu cargo.
 
@@ -24,8 +24,8 @@ La aplicación es multi-RFC por lo que podrás agregar a todos* los patrones que
 
 ## Ingresar los datos de los trabajadores
 
-<iframe src="https://player.vimeo.com/video/225452611" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/225452611?portrait=0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Emisión de un comprobante
 
-<iframe src="https://player.vimeo.com/video/226657508" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/226657508?portrait=0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

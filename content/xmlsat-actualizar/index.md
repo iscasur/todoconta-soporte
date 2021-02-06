@@ -25,6 +25,6 @@ Nos dirigimos a la carpeta donde se encuentra instalada la aplicación (C:\Archi
 
 Ejecutamos el archivo **AUTOUPDATE.exe** y dejamos que la aplicación termine el proceso.
 
-<iframe src="https://player.vimeo.com/video/407257120" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/407257120?portrait=0&title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 > Esta solución aplica para [XMLSAT++](https://todoconta.com/xmlsat) y [XMLSAT Premium](https://todoconta.com/xmlsatpremium).

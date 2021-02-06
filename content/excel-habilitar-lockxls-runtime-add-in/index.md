@@ -23,7 +23,7 @@ Para que funcione correctamente la aplicación se deberá asegurar de agregar a 
 
 Una vez realizado lo anterior sigue los pasos del siguiente vídeo para **habilitar el complemento LockXLS** y el software volverá a funcionar de nuevo como la venía estado haciendo.
 
-<iframe src="https://www.youtube.com/embed/PwipmjJW1PE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PwipmjJW1PE" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Si con las indicaciones anteriores se continúa con el error, otra causa también pude ser que la aplicación se tenga que ejecutar en el equipo con permiso de administrador.
 
