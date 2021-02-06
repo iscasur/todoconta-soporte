@@ -100,6 +100,7 @@ export {
   // FaDollarSign,
   // FaEuroSign,
   FaBox,
+  FaFileInvoiceDollar,
   // FaStore,
   // FaStoreAlt,
   //

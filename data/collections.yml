@@ -46,3 +46,25 @@
       articles:
         - file: ../content/xmlcontpaq-compatibilidad-32-33/index.md
         - file: ../content/xmlcontpaq-problema-asociar-xml/index.md
+
+- id: programas-cfdi
+  title: Programas CFDI
+  description: 'Soporte para las aplicaciones CFDI Facturas, CFDI Recibos, CFDI Nóminas'
+  icon: "FaFileInvoiceDollar"
+  articles:
+    - file: ../content/cfdi-error-iniciar-aplicacion/index.md
+    - file: ../content/cfdi-activar-programa/index.md
+    - file: ../content/cfdi-error-tabla-0/index.md
+    - file: ../content/cfdi-actualizar/index.md
+    - file: ../content/cfdi-error-304-csd-caducado/index.md
+    - file: ../content/cfdi-error-301-xml-mal-formado/index.md
+    - file: ../content/cfdi-error-subir-catalogos/index.md
+    - file: ../content/cfdi-error-cancelar-comprobante/index.md
+    - file: ../content/cfdi-error-402-regimen-fiscal/index.md
+    - file: ../content/cfdi-error-rfc-alta/index.md
+    - file: ../content/cfdi-dbnull/index.md
+  sections:
+    - id: cfdinominas
+      title: CFDI Nóminas
+      articles:
+        - file: ../content/cfdi-nomina-tutorial/index.md
