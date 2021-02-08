@@ -51,6 +51,7 @@
     - id: xml-contpaq
       title: "XML a Contpaqi"
       articles:
+        - file: ../content/excel-feature-unavailable/index.md
         - file: ../content/xmlcontpaq-compatibilidad-32-33/index.md
         - file: ../content/xmlcontpaq-problema-asociar-xml/index.md
 
