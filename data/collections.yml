@@ -34,6 +34,7 @@
   description: 'Soporte para las aplicaciones XMLSAT++ y XMLSAT Premium'
   icon: "FcServices"
   articles:
+    - file: ../content/xmlsat-trasladar-licencia/index.md
     - file: ../content/xmlsat-actualizar/index.md
     - file: ../content/xmlsat-no-convierte-pdf/index.md
     - file: ../content/xmlsat-error-captcha/index.md
