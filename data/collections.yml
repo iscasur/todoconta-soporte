@@ -24,24 +24,31 @@
 
 - id: general
   title: General
-  description: 'Temas generales sobre asistencia remota, cómo comprar en línea, etc.'
+  description: "Temas generales sobre asistencia remota, cómo comprar en línea, etc."
   icon: "FcAssistant"
   articles:
     - file: ../content/asistencia-remota/index.md
 
 - id: construsoft
   title: Construsoft
-  description: 'Soporte para las aplicaciones XMLSAT++ y XMLSAT Premium'
+  description: "Soporte para las aplicaciones XMLSAT++ y XMLSAT Premium"
   icon: "FcServices"
   articles:
     - file: ../content/xmlsat-trasladar-licencia/index.md
     - file: ../content/xmlsat-actualizar/index.md
     - file: ../content/xmlsat-no-convierte-pdf/index.md
     - file: ../content/xmlsat-error-captcha/index.md
+  sections:
+    - id: xmlsat-premium
+      title: "Tutorial de uso de XMLSAT Premium"
+      articles:
+        - file: ../content/xmlsat-01-web-service/index.md
+        - file: ../content/xmlsat-02-reportes-excel/index.md
+        - file: ../content/xmlsat-03-organizar-xml/index.md
 
 - id: excel-trabaja-por-ti
   title: Excel Trabaja por Ti
-  description: 'Soporte a las aplicaciones Control XML-CFDI, Control XML Nómina, XML a Contpaqi y Concilia REP'
+  description: "Soporte a las aplicaciones Control XML-CFDI, Control XML Nómina, XML a Contpaqi y Concilia REP"
   icon: "FcDataSheet"
   articles:
     - file: ../content/excel-no-responde-solucion/index.md
@@ -58,7 +65,7 @@
 
 - id: facturacion-en-linea
   title: Facturación en línea
-  description: 'Soporte para la plataforma de facturación en línea'
+  description: "Soporte para la plataforma de facturación en línea"
   icon: "FcMultipleDevices"
   articles:
     - file: ../content/facturacion-cambiar-csd/index.md
@@ -75,7 +82,7 @@
 
 - id: programas-cfdi
   title: Programas CFDI
-  description: 'Soporte para las aplicaciones CFDI Facturas, CFDI Recibos, CFDI Nóminas'
+  description: "Soporte para las aplicaciones CFDI Facturas, CFDI Recibos, CFDI Nóminas"
   icon: "FcDocument"
   articles:
     - file: ../content/cfdi-error-iniciar-aplicacion/index.md
